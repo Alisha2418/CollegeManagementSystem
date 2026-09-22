@@ -6,3 +6,7 @@ function addStudent(name, roll) {
 function addFacultyMember(name, subject) {
   console.log(`Faculty Added: ${name} - Subject: ${subject}`);
 }
+
+function addCourse(courseName, duration) {
+  console.log(`Course Added: ${courseName} - Duration: ${duration}`);
+}
